@@ -1,0 +1,31 @@
+supplier_id,supplier_name,contact_email,contact_phone,city,state,country,reliability_score,active,created_at
+1,Valley Fresh Farms,odette.vasilopoulos@valleyfreshfarms.com,(147) 133-5939,Knoxville,Tennessee,US,0.69,1,2022-06-03T00:00:00.000Z
+2,Sunrise Produce Co.,fletcher.poole@sunriseproduceco.com,(696) 696-1845,Tampa,Florida,US,0.94,1,2022-03-22T00:00:00.000Z
+3,Green Harvest Supply,mateo.lupembe@greenharvestsupply.com,(763) 467-6495,Cincinnati,Ohio,US,0.74,1,2022-11-09T00:00:00.000Z
+4,Pacific Coast Growers,calvin.branco@pacificcoastgrowers.com,(956) 844-8572,Oakland,California,US,0.94,0,2022-10-20T00:00:00.000Z
+5,Heritage Orchards Inc.,junpei.wathey@heritageorchardsinc.com,(883) 731-8705,Amarillo,Texas,US,0.73,1,2022-11-18T00:00:00.000Z
+6,Golden State Produce,telmo.mlozoa@goldenstateproduce.com,(830) 792-6955,Columbus,Ohio,US,0.7,1,2022-11-07T00:00:00.000Z
+7,Riverside Farm Direct,gladys.al midfa@riversidefarmdirect.com,(493) 819-9369,Albany,New York,US,0.65,1,2022-04-20T00:00:00.000Z
+8,Blue Ridge Organics,jun.minár@blueridgeorganics.com,(881) 388-7161,Lake Charles,Louisiana,US,0.98,1,2022-06-17T00:00:00.000Z
+9,Prairie Land Vegetables,gregory.ibrahim@prairielandvegetables.com,(184) 472-9991,Racine,Wisconsin,US,0.94,1,2022-10-07T00:00:00.000Z
+10,Coastal Citrus Group,felipe.kotze@coastalcitrusgroup.com,(848) 224-6841,Alexandria,Virginia,US,0.62,1,2022-09-01T00:00:00.000Z
+11,Mountain View Farms,veronica.naing win@mountainviewfarms.com,(407) 303-3627,Waltham,Massachusetts,US,0.75,1,2022-10-24T00:00:00.000Z
+12,Heartland Harvest Co.,milan.beye@heartlandharvestco.com,(153) 489-2919,Fort Worth,Texas,US,0.77,1,2022-06-24T00:00:00.000Z
+13,Tropical Sun Imports,mahealani.vidal@tropicalsunimports.com,(180) 670-8913,Tallahassee,Florida,US,0.82,1,2022-09-21T00:00:00.000Z
+14,Evergreen Produce Ltd.,james.benmohamed@evergreenproduceltd.com,(412) 920-9698,Chandler,Arizona,US,0.97,1,2022-10-23T00:00:00.000Z
+15,Delta Valley Growers,sofie.puri@deltavalleygrowers.com,(749) 899-7908,Orlando,Florida,US,0.95,1,2022-10-22T00:00:00.000Z
+16,Sunshine Fruit Exchange,siobhan.al majid@sunshinefruitexchange.com,(591) 922-7344,Tampa,Florida,US,0.77,1,2022-08-18T00:00:00.000Z
+17,Great Plains Produce,ramiro.sylla@greatplainsproduce.com,(311) 847-1883,Albany,New York,US,0.63,1,2022-09-07T00:00:00.000Z
+18,Appalachian Fresh Co.,madeleine.pwakai@appalachianfreshco.com,(539) 905-1761,Boca Raton,Florida,US,0.84,1,2022-07-27T00:00:00.000Z
+19,Gulf Stream Farms,dariya.boonsong@gulfstreamfarms.com,(628) 753-8410,Boca Raton,Florida,US,0.71,0,2022-02-26T00:00:00.000Z
+20,Cedar Creek Organics,adina.šuster@cedarcreekorganics.com,(300) 804-3111,Atlanta,Georgia,US,0.98,1,2022-02-22T00:00:00.000Z
+21,Silver Lake Produce,roger.jude@silverlakeproduce.com,(544) 988-4641,Denver,Colorado,US,0.7,1,2022-06-16T00:00:00.000Z
+22,Rolling Hills Farm Co.,adriano.ghazouani@rollinghillsfarmco.com,(595) 577-1219,Springfield,Massachusetts,US,0.84,1,2022-01-14T00:00:00.000Z
+23,Terra Nova Growers,vincent.pelletier@terranovagrowers.com,(453) 406-5355,Fort Worth,Texas,US,0.67,1,2022-03-15T00:00:00.000Z
+24,Pacific Rim Imports,ignazio.shen@pacificrimimports.com,(646) 955-3657,Charleston,West Virginia,US,0.73,1,2022-06-05T00:00:00.000Z
+25,Meadowbrook Farms,aljo.domingue@meadowbrookfarms.com,(314) 439-7247,Grand Rapids,Michigan,US,0.88,1,2022-07-14T00:00:00.000Z
+26,Cascade Fresh Supply,ayesha.matsenjwa@cascadefreshsupply.com,(790) 308-4416,Birmingham,Alabama,US,0.77,1,2022-11-15T00:00:00.000Z
+27,Desert Bloom Produce,zsolt.pacheco@desertbloomproduce.com,(519) 140-8450,San Antonio,Texas,US,0.64,1,2022-02-24T00:00:00.000Z
+28,Lakeshore Organics,paisley.mandja@lakeshoreorganics.com,(267) 522-3148,Las Vegas,Nevada,US,0.87,1,2022-03-25T00:00:00.000Z
+29,Thunder Bay Farms,esteban.malaj@thunderbayfarms.com,(311) 828-3444,Saint Louis,Missouri,US,0.78,1,2022-02-20T00:00:00.000Z
+30,Pinnacle Produce Group,alieu.sharafi@pinnacleproducegroup.com,(125) 152-8419,San Diego,California,US,0.6,1,2022-07-05T00:00:00.000Z

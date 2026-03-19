@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,unit_of_measure,shelf_life_days,requires_refrigeration,sku,created_at
+1,Roma Tomato,Vegetable,Tomatoes,kg,10,1,PRD-V0001,2023-01-01T00:00:00.000Z
+2,Cherry Tomato,Vegetable,Tomatoes,kg,8,1,PRD-V0002,2023-01-01T00:00:00.000Z
+3,Beefsteak Tomato,Vegetable,Tomatoes,kg,9,1,PRD-V0003,2023-01-02T00:00:00.000Z
+4,Grape Tomato,Vegetable,Tomatoes,kg,10,1,PRD-V0004,2023-01-02T00:00:00.000Z
+5,Heirloom Tomato,Vegetable,Tomatoes,kg,7,1,PRD-V0005,2023-01-03T00:00:00.000Z
+6,Iceberg Lettuce,Vegetable,Leafy Greens,each,10,1,PRD-V0006,2023-01-03T00:00:00.000Z
+7,Romaine Lettuce,Vegetable,Leafy Greens,each,10,1,PRD-V0007,2023-01-04T00:00:00.000Z
+8,Baby Spinach,Vegetable,Leafy Greens,kg,7,1,PRD-V0008,2023-01-04T00:00:00.000Z
+9,Curly Kale,Vegetable,Leafy Greens,bunch,7,1,PRD-V0009,2023-01-05T00:00:00.000Z
+10,Lacinato Kale,Vegetable,Leafy Greens,bunch,7,1,PRD-V0010,2023-01-05T00:00:00.000Z
+11,Arugula,Vegetable,Leafy Greens,kg,5,1,PRD-V0011,2023-01-06T00:00:00.000Z
+12,Swiss Chard,Vegetable,Leafy Greens,bunch,7,1,PRD-V0012,2023-01-06T00:00:00.000Z
+13,Collard Greens,Vegetable,Leafy Greens,bunch,7,1,PRD-V0013,2023-01-07T00:00:00.000Z
+14,Red Cabbage,Vegetable,Cruciferous,each,21,0,PRD-V0014,2023-01-07T00:00:00.000Z
+15,Green Cabbage,Vegetable,Cruciferous,each,21,0,PRD-V0015,2023-01-08T00:00:00.000Z
+16,Broccoli Crown,Vegetable,Cruciferous,kg,7,1,PRD-V0016,2023-01-08T00:00:00.000Z
+17,Broccoli Florets,Vegetable,Cruciferous,kg,5,1,PRD-V0017,2023-01-09T00:00:00.000Z
+18,Cauliflower,Vegetable,Cruciferous,each,7,1,PRD-V0018,2023-01-09T00:00:00.000Z
+19,Brussels Sprouts,Vegetable,Cruciferous,kg,10,1,PRD-V0019,2023-01-10T00:00:00.000Z
+20,Bok Choy,Vegetable,Cruciferous,bunch,5,1,PRD-V0020,2023-01-10T00:00:00.000Z
+21,Orange Carrot,Vegetable,Root Vegetables,kg,21,0,PRD-V0021,2023-01-11T00:00:00.000Z
+22,Baby Carrot,Vegetable,Root Vegetables,kg,14,1,PRD-V0022,2023-01-11T00:00:00.000Z
+23,Red Beet,Vegetable,Root Vegetables,kg,21,0,PRD-V0023,2023-01-12T00:00:00.000Z
+24,Golden Beet,Vegetable,Root Vegetables,kg,21,0,PRD-V0024,2023-01-12T00:00:00.000Z
+25,Turnip,Vegetable,Root Vegetables,kg,14,1,PRD-V0025,2023-01-13T00:00:00.000Z
+26,Parsnip,Vegetable,Root Vegetables,kg,14,1,PRD-V0026,2023-01-13T00:00:00.000Z
+27,Radish,Vegetable,Root Vegetables,bunch,10,1,PRD-V0027,2023-01-14T00:00:00.000Z
+28,Daikon Radish,Vegetable,Root Vegetables,each,14,1,PRD-V0028,2023-01-14T00:00:00.000Z
+29,Sweet Potato,Vegetable,Root Vegetables,kg,30,0,PRD-V0029,2023-01-15T00:00:00.000Z
+30,Russet Potato,Vegetable,Root Vegetables,kg,30,0,PRD-V0030,2023-01-15T00:00:00.000Z
+31,Red Potato,Vegetable,Root Vegetables,kg,21,0,PRD-V0031,2023-01-16T00:00:00.000Z
+32,Yukon Gold Potato,Vegetable,Root Vegetables,kg,21,0,PRD-V0032,2023-01-16T00:00:00.000Z
+33,Fingerling Potato,Vegetable,Root Vegetables,kg,21,0,PRD-V0033,2023-01-17T00:00:00.000Z
+34,Yellow Onion,Vegetable,Alliums,kg,30,0,PRD-V0034,2023-01-17T00:00:00.000Z
+35,Red Onion,Vegetable,Alliums,kg,30,0,PRD-V0035,2023-01-18T00:00:00.000Z
+36,White Onion,Vegetable,Alliums,kg,30,0,PRD-V0036,2023-01-18T00:00:00.000Z
+37,Shallot,Vegetable,Alliums,kg,30,0,PRD-V0037,2023-01-19T00:00:00.000Z
+38,Green Onion,Vegetable,Alliums,bunch,7,1,PRD-V0038,2023-01-19T00:00:00.000Z
+39,Leek,Vegetable,Alliums,bunch,10,1,PRD-V0039,2023-01-20T00:00:00.000Z
+40,Garlic Bulb,Vegetable,Alliums,each,60,0,PRD-V0040,2023-01-20T00:00:00.000Z
+41,Green Bell Pepper,Vegetable,Peppers,each,10,1,PRD-V0041,2023-01-21T00:00:00.000Z
+42,Red Bell Pepper,Vegetable,Peppers,each,10,1,PRD-V0042,2023-01-21T00:00:00.000Z
+43,Yellow Bell Pepper,Vegetable,Peppers,each,10,1,PRD-V0043,2023-01-22T00:00:00.000Z
+44,Orange Bell Pepper,Vegetable,Peppers,each,10,1,PRD-V0044,2023-01-22T00:00:00.000Z
+45,Jalapeño Pepper,Vegetable,Peppers,kg,10,1,PRD-V0045,2023-01-23T00:00:00.000Z
+46,Serrano Pepper,Vegetable,Peppers,kg,10,1,PRD-V0046,2023-01-23T00:00:00.000Z
+47,Poblano Pepper,Vegetable,Peppers,kg,10,1,PRD-V0047,2023-01-24T00:00:00.000Z
+48,Habanero Pepper,Vegetable,Peppers,kg,10,1,PRD-V0048,2023-01-24T00:00:00.000Z
+49,Zucchini,Vegetable,Squash,each,7,1,PRD-V0049,2023-01-25T00:00:00.000Z
+50,Yellow Squash,Vegetable,Squash,each,7,1,PRD-V0050,2023-01-25T00:00:00.000Z
+51,Butternut Squash,Vegetable,Squash,each,30,0,PRD-V0051,2023-01-26T00:00:00.000Z
+52,Acorn Squash,Vegetable,Squash,each,30,0,PRD-V0052,2023-01-26T00:00:00.000Z
+53,Spaghetti Squash,Vegetable,Squash,each,30,0,PRD-V0053,2023-01-27T00:00:00.000Z
+54,Delicata Squash,Vegetable,Squash,each,21,0,PRD-V0054,2023-01-27T00:00:00.000Z
+55,Kabocha Squash,Vegetable,Squash,each,30,0,PRD-V0055,2023-01-28T00:00:00.000Z
+56,English Cucumber,Vegetable,Cucumbers,each,7,1,PRD-V0056,2023-01-28T00:00:00.000Z
+57,Persian Cucumber,Vegetable,Cucumbers,kg,7,1,PRD-V0057,2023-01-29T00:00:00.000Z
+58,Pickling Cucumber,Vegetable,Cucumbers,kg,7,1,PRD-V0058,2023-01-29T00:00:00.000Z
+59,Globe Eggplant,Vegetable,Nightshades,each,7,1,PRD-V0059,2023-01-30T00:00:00.000Z
+60,Japanese Eggplant,Vegetable,Nightshades,each,7,1,PRD-V0060,2023-01-30T00:00:00.000Z
+61,Sweet Corn,Vegetable,Corn,each,5,1,PRD-V0061,2023-01-31T00:00:00.000Z
+62,Bi-Color Corn,Vegetable,Corn,each,5,1,PRD-V0062,2023-01-31T00:00:00.000Z
+63,Green Bean,Vegetable,Beans & Peas,kg,7,1,PRD-V0063,2023-02-01T00:00:00.000Z
+64,Snap Pea,Vegetable,Beans & Peas,kg,5,1,PRD-V0064,2023-02-01T00:00:00.000Z
+65,Snow Pea,Vegetable,Beans & Peas,kg,5,1,PRD-V0065,2023-02-02T00:00:00.000Z
+66,Edamame,Vegetable,Beans & Peas,kg,5,1,PRD-V0066,2023-02-02T00:00:00.000Z
+67,Lima Bean,Vegetable,Beans & Peas,kg,5,1,PRD-V0067,2023-02-03T00:00:00.000Z
+68,White Mushroom,Vegetable,Mushrooms,kg,7,1,PRD-V0068,2023-02-03T00:00:00.000Z
+69,Cremini Mushroom,Vegetable,Mushrooms,kg,7,1,PRD-V0069,2023-02-04T00:00:00.000Z
+70,Portobello Mushroom,Vegetable,Mushrooms,each,7,1,PRD-V0070,2023-02-04T00:00:00.000Z
+71,Shiitake Mushroom,Vegetable,Mushrooms,kg,7,1,PRD-V0071,2023-02-05T00:00:00.000Z
+72,Oyster Mushroom,Vegetable,Mushrooms,kg,5,1,PRD-V0072,2023-02-05T00:00:00.000Z
+73,Green Asparagus,Vegetable,Stalks,bunch,5,1,PRD-V0073,2023-02-06T00:00:00.000Z
+74,White Asparagus,Vegetable,Stalks,bunch,5,1,PRD-V0074,2023-02-06T00:00:00.000Z
+75,Celery,Vegetable,Stalks,bunch,14,1,PRD-V0075,2023-02-07T00:00:00.000Z
+76,Fennel,Vegetable,Stalks,each,10,1,PRD-V0076,2023-02-07T00:00:00.000Z
+77,Rhubarb,Vegetable,Stalks,bunch,7,1,PRD-V0077,2023-02-08T00:00:00.000Z
+78,Globe Artichoke,Vegetable,Other Vegetables,each,7,1,PRD-V0078,2023-02-08T00:00:00.000Z
+79,Okra,Vegetable,Other Vegetables,kg,5,1,PRD-V0079,2023-02-09T00:00:00.000Z
+80,Jicama,Vegetable,Other Vegetables,each,14,1,PRD-V0080,2023-02-09T00:00:00.000Z
+81,Kohlrabi,Vegetable,Other Vegetables,each,14,1,PRD-V0081,2023-02-10T00:00:00.000Z
+82,Celeriac,Vegetable,Other Vegetables,each,14,1,PRD-V0082,2023-02-10T00:00:00.000Z
+83,Flat-Leaf Parsley,Vegetable,Herbs,bunch,7,1,PRD-V0083,2023-02-11T00:00:00.000Z
+84,Cilantro,Vegetable,Herbs,bunch,5,1,PRD-V0084,2023-02-11T00:00:00.000Z
+85,Fresh Basil,Vegetable,Herbs,bunch,5,1,PRD-V0085,2023-02-12T00:00:00.000Z
+86,Fresh Dill,Vegetable,Herbs,bunch,5,1,PRD-V0086,2023-02-12T00:00:00.000Z
+87,Fresh Mint,Vegetable,Herbs,bunch,5,1,PRD-V0087,2023-02-13T00:00:00.000Z
+88,Fresh Thyme,Vegetable,Herbs,bunch,7,1,PRD-V0088,2023-02-13T00:00:00.000Z
+89,Fresh Rosemary,Vegetable,Herbs,bunch,10,1,PRD-V0089,2023-02-14T00:00:00.000Z
+90,Chives,Vegetable,Herbs,bunch,7,1,PRD-V0090,2023-02-14T00:00:00.000Z
+91,Watercress,Vegetable,Leafy Greens,bunch,3,1,PRD-V0091,2023-02-15T00:00:00.000Z
+92,Endive,Vegetable,Leafy Greens,each,5,1,PRD-V0092,2023-02-15T00:00:00.000Z
+93,Radicchio,Vegetable,Leafy Greens,each,5,1,PRD-V0093,2023-02-16T00:00:00.000Z
+94,Frisée,Vegetable,Leafy Greens,each,3,1,PRD-V0094,2023-02-16T00:00:00.000Z
+95,Butter Lettuce,Vegetable,Leafy Greens,each,5,1,PRD-V0095,2023-02-17T00:00:00.000Z
+96,Savoy Cabbage,Vegetable,Cruciferous,each,14,1,PRD-V0096,2023-02-17T00:00:00.000Z
+97,Napa Cabbage,Vegetable,Cruciferous,each,10,1,PRD-V0097,2023-02-18T00:00:00.000Z
+98,Broccolini,Vegetable,Cruciferous,bunch,5,1,PRD-V0098,2023-02-18T00:00:00.000Z
+99,Fuji Apple,Fruit,Pome Fruits,kg,30,0,PRD-F0099,2023-02-19T00:00:00.000Z
+100,Gala Apple,Fruit,Pome Fruits,kg,30,0,PRD-F0100,2023-02-19T00:00:00.000Z
+101,Granny Smith Apple,Fruit,Pome Fruits,kg,30,0,PRD-F0101,2023-02-20T00:00:00.000Z
+102,Honeycrisp Apple,Fruit,Pome Fruits,kg,30,0,PRD-F0102,2023-02-20T00:00:00.000Z
+103,Red Delicious Apple,Fruit,Pome Fruits,kg,30,0,PRD-F0103,2023-02-21T00:00:00.000Z
+104,Bartlett Pear,Fruit,Pome Fruits,kg,14,1,PRD-F0104,2023-02-21T00:00:00.000Z
+105,Anjou Pear,Fruit,Pome Fruits,kg,14,1,PRD-F0105,2023-02-22T00:00:00.000Z
+106,Bosc Pear,Fruit,Pome Fruits,kg,14,1,PRD-F0106,2023-02-22T00:00:00.000Z
+107,Cavendish Banana,Fruit,Tropical Fruits,bunch,7,1,PRD-F0107,2023-02-23T00:00:00.000Z
+108,Plantain,Fruit,Tropical Fruits,each,10,1,PRD-F0108,2023-02-23T00:00:00.000Z
+109,Hass Avocado,Fruit,Tropical Fruits,each,5,1,PRD-F0109,2023-02-24T00:00:00.000Z
+110,Florida Avocado,Fruit,Tropical Fruits,each,5,1,PRD-F0110,2023-02-24T00:00:00.000Z
+111,Gold Pineapple,Fruit,Tropical Fruits,each,5,1,PRD-F0111,2023-02-25T00:00:00.000Z
+112,Ataulfo Mango,Fruit,Tropical Fruits,each,7,1,PRD-F0112,2023-02-25T00:00:00.000Z
+113,Tommy Atkins Mango,Fruit,Tropical Fruits,each,7,1,PRD-F0113,2023-02-26T00:00:00.000Z
+114,Solo Papaya,Fruit,Tropical Fruits,each,5,1,PRD-F0114,2023-02-26T00:00:00.000Z
+115,Red Dragon Fruit,Fruit,Tropical Fruits,each,5,1,PRD-F0115,2023-02-27T00:00:00.000Z
+116,Passion Fruit,Fruit,Tropical Fruits,each,5,1,PRD-F0116,2023-02-27T00:00:00.000Z
+117,Guava,Fruit,Tropical Fruits,each,5,1,PRD-F0117,2023-02-28T00:00:00.000Z
+118,Starfruit,Fruit,Tropical Fruits,each,5,1,PRD-F0118,2023-02-28T00:00:00.000Z
+119,Fresh Coconut,Fruit,Tropical Fruits,each,14,1,PRD-F0119,2023-03-01T00:00:00.000Z
+120,Navel Orange,Fruit,Citrus,kg,21,0,PRD-F0120,2023-03-01T00:00:00.000Z
+121,Valencia Orange,Fruit,Citrus,kg,21,0,PRD-F0121,2023-03-02T00:00:00.000Z
+122,Blood Orange,Fruit,Citrus,kg,14,1,PRD-F0122,2023-03-02T00:00:00.000Z
+123,Eureka Lemon,Fruit,Citrus,kg,21,0,PRD-F0123,2023-03-03T00:00:00.000Z
+124,Meyer Lemon,Fruit,Citrus,kg,14,1,PRD-F0124,2023-03-03T00:00:00.000Z
+125,Persian Lime,Fruit,Citrus,kg,14,1,PRD-F0125,2023-03-04T00:00:00.000Z
+126,Key Lime,Fruit,Citrus,kg,14,1,PRD-F0126,2023-03-04T00:00:00.000Z
+127,Ruby Red Grapefruit,Fruit,Citrus,kg,21,0,PRD-F0127,2023-03-05T00:00:00.000Z
+128,White Grapefruit,Fruit,Citrus,kg,21,0,PRD-F0128,2023-03-05T00:00:00.000Z
+129,Clementine,Fruit,Citrus,kg,14,1,PRD-F0129,2023-03-06T00:00:00.000Z
+130,Tangerine,Fruit,Citrus,kg,14,1,PRD-F0130,2023-03-06T00:00:00.000Z
+131,Kumquat,Fruit,Citrus,kg,14,1,PRD-F0131,2023-03-07T00:00:00.000Z
+132,Strawberry,Fruit,Berries,kg,5,1,PRD-F0132,2023-03-07T00:00:00.000Z
+133,Blueberry,Fruit,Berries,kg,7,1,PRD-F0133,2023-03-08T00:00:00.000Z
+134,Raspberry,Fruit,Berries,kg,3,1,PRD-F0134,2023-03-08T00:00:00.000Z
+135,Blackberry,Fruit,Berries,kg,3,1,PRD-F0135,2023-03-09T00:00:00.000Z
+136,Cranberry,Fruit,Berries,kg,14,1,PRD-F0136,2023-03-09T00:00:00.000Z
+137,Gooseberry,Fruit,Berries,kg,5,1,PRD-F0137,2023-03-10T00:00:00.000Z
+138,Red Grape,Fruit,Grapes,kg,10,1,PRD-F0138,2023-03-10T00:00:00.000Z
+139,Green Grape,Fruit,Grapes,kg,10,1,PRD-F0139,2023-03-11T00:00:00.000Z
+140,Concord Grape,Fruit,Grapes,kg,7,1,PRD-F0140,2023-03-11T00:00:00.000Z
+141,Black Grape,Fruit,Grapes,kg,10,1,PRD-F0141,2023-03-12T00:00:00.000Z
+142,Yellow Peach,Fruit,Stone Fruits,kg,5,1,PRD-F0142,2023-03-12T00:00:00.000Z
+143,White Peach,Fruit,Stone Fruits,kg,5,1,PRD-F0143,2023-03-13T00:00:00.000Z
+144,Black Plum,Fruit,Stone Fruits,kg,5,1,PRD-F0144,2023-03-13T00:00:00.000Z
+145,Red Plum,Fruit,Stone Fruits,kg,5,1,PRD-F0145,2023-03-14T00:00:00.000Z
+146,Nectarine,Fruit,Stone Fruits,kg,5,1,PRD-F0146,2023-03-14T00:00:00.000Z
+147,Bing Cherry,Fruit,Stone Fruits,kg,5,1,PRD-F0147,2023-03-15T00:00:00.000Z
+148,Rainier Cherry,Fruit,Stone Fruits,kg,5,1,PRD-F0148,2023-03-15T00:00:00.000Z
+149,Apricot,Fruit,Stone Fruits,kg,5,1,PRD-F0149,2023-03-16T00:00:00.000Z
+150,Cantaloupe,Fruit,Melons,each,7,1,PRD-F0150,2023-03-16T00:00:00.000Z
+151,Honeydew Melon,Fruit,Melons,each,7,1,PRD-F0151,2023-03-17T00:00:00.000Z
+152,Seedless Watermelon,Fruit,Melons,each,7,1,PRD-F0152,2023-03-17T00:00:00.000Z
+153,Mini Watermelon,Fruit,Melons,each,7,1,PRD-F0153,2023-03-18T00:00:00.000Z
+154,Galia Melon,Fruit,Melons,each,7,1,PRD-F0154,2023-03-18T00:00:00.000Z
+155,Kiwi,Fruit,Exotic Fruits,each,14,1,PRD-F0155,2023-03-19T00:00:00.000Z
+156,Gold Kiwi,Fruit,Exotic Fruits,each,14,1,PRD-F0156,2023-03-19T00:00:00.000Z
+157,Pomegranate,Fruit,Exotic Fruits,each,14,1,PRD-F0157,2023-03-20T00:00:00.000Z
+158,Fresh Fig,Fruit,Exotic Fruits,each,3,1,PRD-F0158,2023-03-20T00:00:00.000Z
+159,Persimmon,Fruit,Exotic Fruits,each,7,1,PRD-F0159,2023-03-21T00:00:00.000Z
+160,Lychee,Fruit,Exotic Fruits,kg,5,1,PRD-F0160,2023-03-21T00:00:00.000Z
+161,Rambutan,Fruit,Exotic Fruits,kg,5,1,PRD-F0161,2023-03-22T00:00:00.000Z
+162,Jackfruit,Fruit,Exotic Fruits,kg,5,1,PRD-F0162,2023-03-22T00:00:00.000Z
+163,Cherimoya,Fruit,Exotic Fruits,each,3,1,PRD-F0163,2023-03-23T00:00:00.000Z
+164,Tomatillo,Vegetable,Nightshades,kg,14,1,PRD-V0164,2023-03-23T00:00:00.000Z
+165,Purple Eggplant,Vegetable,Nightshades,each,7,1,PRD-V0165,2023-03-24T00:00:00.000Z
+166,Romanesco,Vegetable,Cruciferous,each,7,1,PRD-V0166,2023-03-24T00:00:00.000Z
+167,Chinese Broccoli,Vegetable,Cruciferous,bunch,5,1,PRD-V0167,2023-03-25T00:00:00.000Z
+168,Baby Bok Choy,Vegetable,Cruciferous,bunch,5,1,PRD-V0168,2023-03-25T00:00:00.000Z
+169,Purple Cabbage,Vegetable,Cruciferous,each,21,0,PRD-V0169,2023-03-26T00:00:00.000Z
+170,Mustard Greens,Vegetable,Leafy Greens,bunch,5,1,PRD-V0170,2023-03-26T00:00:00.000Z
+171,Dandelion Greens,Vegetable,Leafy Greens,bunch,3,1,PRD-V0171,2023-03-27T00:00:00.000Z
+172,Turnip Greens,Vegetable,Leafy Greens,bunch,5,1,PRD-V0172,2023-03-27T00:00:00.000Z
+173,Sorrel,Vegetable,Herbs,bunch,5,1,PRD-V0173,2023-03-28T00:00:00.000Z
+174,Lemongrass,Vegetable,Herbs,bunch,14,1,PRD-V0174,2023-03-28T00:00:00.000Z
+175,Fresh Oregano,Vegetable,Herbs,bunch,7,1,PRD-V0175,2023-03-29T00:00:00.000Z
+176,Fresh Sage,Vegetable,Herbs,bunch,7,1,PRD-V0176,2023-03-29T00:00:00.000Z
+177,Fresh Tarragon,Vegetable,Herbs,bunch,5,1,PRD-V0177,2023-03-30T00:00:00.000Z
+178,Purple Carrot,Vegetable,Root Vegetables,kg,21,0,PRD-V0178,2023-03-30T00:00:00.000Z
+179,Rutabaga,Vegetable,Root Vegetables,each,21,0,PRD-V0179,2023-03-31T00:00:00.000Z
+180,Ginger Root,Vegetable,Root Vegetables,kg,21,0,PRD-V0180,2023-03-31T00:00:00.000Z
+181,Turmeric Root,Vegetable,Root Vegetables,kg,14,1,PRD-V0181,2023-04-01T00:00:00.000Z
+182,Horseradish Root,Vegetable,Root Vegetables,each,14,1,PRD-V0182,2023-04-01T00:00:00.000Z
+183,Habanada Pepper,Vegetable,Peppers,kg,10,1,PRD-V0183,2023-04-02T00:00:00.000Z
+184,Shishito Pepper,Vegetable,Peppers,kg,7,1,PRD-V0184,2023-04-02T00:00:00.000Z
+185,Banana Pepper,Vegetable,Peppers,kg,10,1,PRD-V0185,2023-04-03T00:00:00.000Z
+186,Pattypan Squash,Vegetable,Squash,each,7,1,PRD-V0186,2023-04-03T00:00:00.000Z
+187,Chayote Squash,Vegetable,Squash,each,14,1,PRD-V0187,2023-04-04T00:00:00.000Z
+188,Enoki Mushroom,Vegetable,Mushrooms,kg,5,1,PRD-V0188,2023-04-04T00:00:00.000Z
+189,King Trumpet Mushroom,Vegetable,Mushrooms,kg,7,1,PRD-V0189,2023-04-05T00:00:00.000Z
+190,Maitake Mushroom,Vegetable,Mushrooms,kg,5,1,PRD-V0190,2023-04-05T00:00:00.000Z
+191,Sumo Mandarin,Fruit,Citrus,each,14,1,PRD-F0191,2023-04-06T00:00:00.000Z
+192,Cara Cara Orange,Fruit,Citrus,kg,21,0,PRD-F0192,2023-04-06T00:00:00.000Z
+193,Satsuma,Fruit,Citrus,kg,14,1,PRD-F0193,2023-04-07T00:00:00.000Z
+194,Pluot,Fruit,Stone Fruits,kg,5,1,PRD-F0194,2023-04-07T00:00:00.000Z
+195,Donut Peach,Fruit,Stone Fruits,kg,5,1,PRD-F0195,2023-04-08T00:00:00.000Z
+196,Golden Raspberry,Fruit,Berries,kg,3,1,PRD-F0196,2023-04-08T00:00:00.000Z
+197,Boysenberry,Fruit,Berries,kg,3,1,PRD-F0197,2023-04-09T00:00:00.000Z
+198,Crenshaw Melon,Fruit,Melons,each,7,1,PRD-F0198,2023-04-09T00:00:00.000Z
+199,Asian Pear,Fruit,Pome Fruits,kg,14,1,PRD-F0199,2023-04-10T00:00:00.000Z
+200,Pink Lady Apple,Fruit,Pome Fruits,kg,30,0,PRD-F0200,2023-04-10T00:00:00.000Z

@@ -1,0 +1,16 @@
+project: retail_ai_os
+registry: data/registry.db
+provider: local
+offline_store:
+    type: snowflake.offline
+    account: jneusse-po63749
+    user: JEEVAN17
+    password: Sinchanagowda@123 
+    role: ACCOUNTADMIN
+    warehouse: COMPUTE_WH
+    database: RETAIL_OS_DB
+    schema: MARTS
+online_store:
+    type: sqlite
+    path: data/online_store.db
+entity_key_serialization_version: 2

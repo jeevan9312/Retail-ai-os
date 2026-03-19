@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-03-15T13:24:57.070065",
+  "purchase_orders": [
+    {
+      "po_id": "PO-20260315132451501232",
+      "product_id": "104",
+      "warehouse_id": "1",
+      "quantity": 190,
+      "status": "CREATED",
+      "priority": "HIGH",
+      "created_at": "2026-03-15T13:24:51.501337",
+      "action": "PURCHASE_ORDER_CREATED"
+    },
+    {
+      "po_id": "PO-20260315132451844301",
+      "product_id": "18",
+      "warehouse_id": "15",
+      "quantity": 56,
+      "status": "CREATED",
+      "priority": "HIGH",
+      "created_at": "2026-03-15T13:24:51.844338",
+      "action": "PURCHASE_ORDER_CREATED"
+    },
+    {
+      "po_id": "PO-20260315132451845421",
+      "product_id": "112",
+      "warehouse_id": "8",
+      "quantity": 68,
+      "status": "CREATED",
+      "priority": "HIGH",
+      "created_at": "2026-03-15T13:24:51.845448",
+      "action": "PURCHASE_ORDER_CREATED"
+    },
+    {
+      "po_id": "PO-20260315132451847475",
+      "product_id": "143",
+      "warehouse_id": "1",
+      "quantity": 231,
+      "status": "CREATED",
+      "priority": "MEDIUM",
+      "created_at": "2026-03-15T13:24:51.847534",
+      "action": "PURCHASE_ORDER_CREATED"
+    },
+    {
+      "po_id": "PO-20260315132451849722",
+      "product_id": "190",
+      "warehouse_id": "8",
+      "quantity": 155,
+      "status": "CREATED",
+      "priority": "MEDIUM",
+      "created_at": "2026-03-15T13:24:51.849758",
+      "action": "PURCHASE_ORDER_CREATED"
+    }
+  ],
+  "price_updates": [
+    {
+      "product_id": "1",
+      "store_id": "STR-004",
+      "predicted_demand": 4.32,
+      "price_action": "HOLD",
+      "updated_at": "2026-03-15T13:24:51.852262",
+      "action": "PRICE_REVIEWED"
+    },
+    {
+      "product_id": "1",
+      "store_id": "STR-005",
+      "predicted_demand": 4.24,
+      "price_action": "HOLD",
+      "updated_at": "2026-03-15T13:24:52.064572",
+      "action": "PRICE_REVIEWED"
+    },
+    {
+      "product_id": "1",
+      "store_id": "STR-006",
+      "predicted_demand": 4.04,
+      "price_action": "HOLD",
+      "updated_at": "2026-03-15T13:24:52.065441",
+      "action": "PRICE_REVIEWED"
+    },
+    {
+      "product_id": "1",
+      "store_id": "STR-008",
+      "predicted_demand": 5.09,
+      "price_action": "HOLD",
+      "updated_at": "2026-03-15T13:24:52.067785",
+      "action": "PRICE_REVIEWED"
+    },
+    {
+      "product_id": "1",
+      "store_id": "STR-009",
+      "predicted_demand": 4.44,
+      "price_action": "HOLD",
+      "updated_at": "2026-03-15T13:24:52.068842",
+      "action": "PRICE_REVIEWED"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_id": "ALT-20260315132451624428",
+      "type": "STOCKOUT_RISK",
+      "product_id": "104",
+      "message": "Product 104 \u2014 OUT_OF_STOCK at warehouse 1",
+      "priority": "HIGH",
+      "created_at": "2026-03-15T13:24:51.624480"
+    },
+    {
+      "alert_id": "ALT-20260315132451845092",
+      "type": "STOCKOUT_RISK",
+      "product_id": "18",
+      "message": "Product 18 \u2014 OUT_OF_STOCK at warehouse 15",
+      "priority": "HIGH",
+      "created_at": "2026-03-15T13:24:51.845125"
+    },
+    {
+      "alert_id": "ALT-20260315132451846289",
+      "type": "STOCKOUT_RISK",
+      "product_id": "112",
+      "message": "Product 112 \u2014 OUT_OF_STOCK at warehouse 8",
+      "priority": "HIGH",
+      "created_at": "2026-03-15T13:24:51.846350"
+    },
+    {
+      "alert_id": "ALT-20260315132451848525",
+      "type": "REORDER_NEEDED",
+      "product_id": "143",
+      "message": "Product 143 \u2014 REORDER_NOW at warehouse 1",
+      "priority": "MEDIUM",
+      "created_at": "2026-03-15T13:24:51.848559"
+    },
+    {
+      "alert_id": "ALT-20260315132451851597",
+      "type": "REORDER_NEEDED",
+      "product_id": "190",
+      "message": "Product 190 \u2014 REORDER_NOW at warehouse 8",
+      "priority": "MEDIUM",
+      "created_at": "2026-03-15T13:24:51.851668"
+    }
+  ]
+}

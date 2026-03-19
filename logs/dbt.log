@@ -1,0 +1,33 @@
+[0m11:27:21.854230 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023E7A734AD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023E7BA7BED0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023E7BA7BB10>]}
+
+
+============================== 11:27:21.860540 | 88f3e290-dc96-42f0-9433-c95cc0a4c7ec ==============================
+[0m11:27:21.860540 [info ] [MainThread]: Running with dbt=1.11.7
+[0m11:27:21.862291 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\jeevu\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'use_colors': 'True', 'invocation_command': 'dbt init retail_dbt', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m11:27:21.888167 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\jeevu\.dbt
+[0m11:27:21.891195 [debug] [MainThread]: Starter project path: C:\Users\jeevu\Downloads\retail-ai\retail-ai-os\venv\Lib\site-packages\dbt\include\starter_project
+[0m11:27:21.911943 [info ] [MainThread]: 
+Your new dbt project "retail_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m11:27:21.913038 [info ] [MainThread]: Setting up your profile.
+[0m11:28:00.968847 [debug] [MainThread]: Snowflake adapter: Setting snowflake.connector to ERROR (file logging only)
+[0m11:28:00.969814 [debug] [MainThread]: Snowflake adapter: Setting botocore to ERROR (file logging only)
+[0m11:28:00.970286 [debug] [MainThread]: Snowflake adapter: Setting boto3 to ERROR (file logging only)
+[0m11:30:24.275285 [info ] [MainThread]: Profile retail_dbt written to C:\Users\jeevu\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m11:30:24.277590 [debug] [MainThread]: Command `dbt init` succeeded at 11:30:24.277394 after 182.63 seconds
+[0m11:30:24.278046 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023E0F03DBA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023E0E9F95B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023E0F048490>]}
+[0m11:30:24.278473 [debug] [MainThread]: Flushing usage events
+[0m11:30:26.181392 [debug] [MainThread]: An error was encountered while trying to flush usage events

@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: raw
+    database: RETAIL_OS_DB
+    schema: RAW
+    tables:
+      - name: raw_transactions
+      - name: raw_inventory
+      - name: raw_products
+      - name: raw_suppliers
+      - name: raw_warehouses
+      - name: raw_batches
+      - name: raw_supplier_contracts
+      - name: raw_economic_signals
+      - name: raw_risk_anomaly
+      - name: raw_sales_intelligence
+      - name: raw_competitor_data
+      - name: raw_temporal_signals
+      - name: raw_weather
+      - name: raw_customer_profiles
+      - name: raw_iot_sensors

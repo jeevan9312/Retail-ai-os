@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,city,state,country,postal_code,capacity_pallets,temperature_controlled,created_at
+1,Pacific Cold Storage,Lakeland,Florida,US,33811,2019,0,2022-03-05T00:00:00.000Z
+2,Central Valley Distribution,Charleston,West Virginia,US,25336,4167,0,2022-12-21T00:00:00.000Z
+3,Great Lakes Produce Hub,Pittsburgh,Pennsylvania,US,15225,2491,1,2022-02-13T00:00:00.000Z
+4,Southeast Fresh Depot,Atlanta,Georgia,US,30358,2743,1,2022-05-18T00:00:00.000Z
+5,Northeast Cold Chain,San Francisco,California,US,94159,2040,1,2022-02-08T00:00:00.000Z
+6,Midwest Harvest Center,Hattiesburg,Mississippi,US,39404,4611,1,2022-04-03T00:00:00.000Z
+7,Gulf Coast Produce Terminal,Omaha,Nebraska,US,68197,1834,1,2022-02-15T00:00:00.000Z
+8,Rocky Mountain Fresh,Louisville,Kentucky,US,40233,4291,1,2022-08-13T00:00:00.000Z
+9,Atlantic Coastal Storage,Stockton,California,US,95298,3713,1,2022-08-18T00:00:00.000Z
+10,Delta Produce Warehouse,Chula Vista,California,US,91913,4377,1,2022-01-12T00:00:00.000Z
+11,Sunbelt Distribution Center,Mobile,Alabama,US,36616,1723,1,2022-11-16T00:00:00.000Z
+12,Prairie Fresh Logistics,Grand Rapids,Michigan,US,49544,1804,1,2022-08-20T00:00:00.000Z
+13,Cascade Cold Storage,Dayton,Ohio,US,45403,3000,1,2022-03-13T00:00:00.000Z
+14,Heartland Produce Hub,Dallas,Texas,US,75246,2486,1,2022-04-10T00:00:00.000Z
+15,Appalachian Fresh Depot,Houston,Texas,US,77005,2073,0,2022-09-05T00:00:00.000Z
