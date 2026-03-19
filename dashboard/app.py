@@ -7,7 +7,16 @@ import plotly.graph_objects as go
 import pandas as pd
 import snowflake.connector
 sys.path.insert(0, '../agents')
-from config import SNOWFLAKE_CONFIG
+import os
+
+SNOWFLAKE_CONFIG = {
+    'account'  : os.getenv('SNOWFLAKE_ACCOUNT', 'jneusse-po63749'),
+    'user'     : os.getenv('SNOWFLAKE_USER',    'JEEVAN17'),
+    'password' : os.getenv('SNOWFLAKE_PASSWORD', 'Sinchanagowda@123'),
+    'warehouse': 'COMPUTE_WH',
+    'database' : 'RETAIL_OS_DB',
+    'schema'   : 'MARTS'
+}
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
 app.title = "AI Retail OS — Command Center"
@@ -679,4 +688,5 @@ def display_page(pathname):
         return page_executive()
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8050)
+    port = int(os.environ.get('PORT', 8050))
+    app.run(host='0.0.0.0', port=port, debug=False)
