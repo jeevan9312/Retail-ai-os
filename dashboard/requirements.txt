@@ -1,5 +1,5 @@
-dash==2.18.1
-plotly==5.24.1
-pandas==2.2.3
-snowflake-connector-python==3.12.3
-pyarrow==18.1.0
+streamlit
+plotly
+pandas
+snowflake-connector-python
+pyarrow
