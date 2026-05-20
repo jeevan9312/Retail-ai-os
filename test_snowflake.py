@@ -4,7 +4,7 @@ try:
     conn = snowflake.connector.connect(
         account   = 'jneusse-po63749',  # from your URL
         user      = 'JEEVAN17',          # your login username
-        password  = 'Sinchanagowda@123',     # your password
+        password  = '---------',     # your password
         warehouse = 'COMPUTE_WH',
         database  = 'RETAIL_OS_DB',
         schema    = 'RAW'
