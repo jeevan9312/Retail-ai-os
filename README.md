@@ -108,7 +108,7 @@ The platform is powered by **20 specialized AI agents** built on a custom **Base
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.11
 - Apache Kafka (running locally or via Docker)
 - MinIO instance
 - Snowflake account
@@ -188,30 +188,6 @@ The Real-Time Command Center (`/dashboard`) provides:
 # Test Snowflake connectivity
 python test_snowflake.py
 ```
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Add REST API layer for external integrations
-- [ ] Containerize with Docker Compose (Kafka + MinIO + App)
-- [ ] Add agent observability & tracing
-- [ ] Build reinforcement learning feedback loop
-- [ ] Add CI/CD pipeline with GitHub Actions
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👤 Author
 
