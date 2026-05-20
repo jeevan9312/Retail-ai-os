@@ -8,8 +8,8 @@ from io import StringIO
 s3 = boto3.client(
     's3',
     endpoint_url='http://localhost:9000',
-    aws_access_key_id='minioadmin',
-    aws_secret_access_key='minioadmin',
+    aws_access_key_id='------',
+    aws_secret_access_key='---------',
     config=Config(signature_version='s3v4'),
     region_name='us-east-1'
 )
@@ -18,7 +18,7 @@ s3 = boto3.client(
 conn = snowflake.connector.connect(
     account   = 'jneusse-po63749',
     user      = 'JEEVAN17',
-    password  = 'Sinchanagowda@123',
+    password  = '-----------',
     warehouse = 'COMPUTE_WH',
     database  = 'RETAIL_OS_DB',
     schema    = 'RAW'
